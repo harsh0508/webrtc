@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/webrtc/static/css/main.359f9155.css",
+    "main.js": "/webrtc/static/js/main.54f7da8b.js",
+    "static/js/453.a007dcb7.chunk.js": "/webrtc/static/js/453.a007dcb7.chunk.js",
+    "static/media/logo.svg": "/webrtc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/webrtc/index.html",
+    "main.359f9155.css.map": "/webrtc/static/css/main.359f9155.css.map",
+    "main.54f7da8b.js.map": "/webrtc/static/js/main.54f7da8b.js.map",
+    "453.a007dcb7.chunk.js.map": "/webrtc/static/js/453.a007dcb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.359f9155.css",
+    "static/js/main.54f7da8b.js"
+  ]
+}
